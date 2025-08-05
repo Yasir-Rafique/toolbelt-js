@@ -4,7 +4,7 @@
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen)]()
 [![TypeScript](https://img.shields.io/badge/lang-TypeScript-blue)]()
 
-A modern, lightweight collection of essential JavaScript utility functions—ready to power up any project. Written in TypeScript, fully tested, and easy to use.
+Toolbelt-js is your one-stop collection of modern, lightweight JavaScript utility functions fully tested, TypeScript-ready, and easy to drop into any project with a single import.
 
 ---
 
